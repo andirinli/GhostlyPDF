@@ -75,10 +75,5 @@ namespace GhostlyPDF
             return result;
         }
 
-        public static List<string> GetTempFiles()
-        {
-            return null;
-        }
-
     }
 }
